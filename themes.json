@@ -1,7 +1,7 @@
 {
     "Themes": {
         "LS": {
-            "downloads": "[LS.json, samsungexlight.otf, clima]",
+            "downloads": "[LS.json, samsungexlight.otf, clima, pl/weathericons]",
         }
     }
 }
